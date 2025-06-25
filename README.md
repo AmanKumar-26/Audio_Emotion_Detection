@@ -35,7 +35,7 @@ This project detects human emotions from voice recordings using a deep learning 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/Audio_Emotion_Detection.git
+   git clone https://github.com/AmanKumar-26/Audio_Emotion_Detection.git
    cd Audio_Emotion_Detection
 2. Install requirements:
     pip install -r requirements.txt
